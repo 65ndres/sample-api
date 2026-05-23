@@ -43,3 +43,4 @@ bin/rails db:seed      # optional: support user, plans, sample users
 ```bash
 bin/rails test
 ```
+# tiny-rest-api
